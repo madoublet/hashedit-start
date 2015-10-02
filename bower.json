@@ -1,0 +1,21 @@
+{
+  "name": "hashedit-start",
+  "version": "0.0.1",
+  "homepage": "https://github.com/madoublet/hashedit-start",
+  "authors": [
+    "Matthew Smith <matt@matthewsmith.com>"
+  ],
+  "description": "A starter project for hashedit sites",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
